@@ -4,6 +4,7 @@
 * [ergote radio](http://erg.be/ergoteradio/)
 * [gabriel rené franjou](http://grf.copyright.rip/)
 * [tristan gac](http://tristangac.com/)
+* [cecile di giovanni](https://ceciledigiovanni)
 * [raphaëlle lasausse](https://solideditions.com/)
 * [julien maire](http://julienmaire.blogspot.com/)
 * [anton moglia](http://maous.fr)
