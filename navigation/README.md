@@ -2,10 +2,10 @@
 ### 2022
 #### 2022.01
 * [x] [Wikipedia on wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
-** [x] [Larry Sanger twitter](https://twitter.com/lsanger)
-** [x] [Why isn't Larry Sanger as talked about as Jimmy Wales here on Quora?](https://www.quora.com/Why-isnt-Larry-Sanger-as-talked-about-as-Jimmy-Wales-here-on-Quora)
-** [x] [Citizendium, Larry Sanger's alternative to wikipedia](https://en.citizendium.org/)
-** [x] [https://www.scoopwhoop.com/Wikipedia-Was-Funded-By-A-Porn-Site/](https://www.scoopwhoop.com/Wikipedia-Was-Funded-By-A-Porn-Site/)
+    * [x] [Larry Sanger twitter](https://twitter.com/lsanger)
+    * [x] [Why isn't Larry Sanger as talked about as Jimmy Wales here on Quora?](https://www.quora.com/Why-isnt-Larry-Sanger-as-talked-about-as-Jimmy-Wales-here-on-Quora)
+    * [x] [Citizendium, Larry Sanger's alternative to wikipedia](https://en.citizendium.org/)
+    * [x] [https://www.scoopwhoop.com/Wikipedia-Was-Funded-By-A-Porn-Site/](https://www.scoopwhoop.com/Wikipedia-Was-Funded-By-A-Porn-Site/)
 * ---
 * [x] [A History of Computer Art](http://www.vam.ac.uk/content/articles/a/computer-art-history)
 * --- 
