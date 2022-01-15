@@ -5,7 +5,8 @@
     * [x] [Larry Sanger twitter](https://twitter.com/lsanger)
     * [x] [Why isn't Larry Sanger as talked about as Jimmy Wales here on Quora?](https://www.quora.com/Why-isnt-Larry-Sanger-as-talked-about-as-Jimmy-Wales-here-on-Quora)
     * [x] [Citizendium, Larry Sanger's alternative to wikipedia](https://en.citizendium.org/)
-    * [x] [https://www.scoopwhoop.com/Wikipedia-Was-Funded-By-A-Porn-Site/](https://www.scoopwhoop.com/Wikipedia-Was-Funded-By-A-Porn-Site/)
+    * [x] [Did You Know Wikipedia Was First Funded By A Porn Site Started By Its Founder Jimmy Wales?](https://www.scoopwhoop.com/Wikipedia-Was-Funded-By-A-Porn-Site/)
+    * [x] [Wikipedia first founder is also is biggest critic](https://www.vice.com/en/article/bnppw4/wikipedias-co-founder-is-wikipedias-biggest-critic-511)
 
 * [x] [A History of Computer Art](http://www.vam.ac.uk/content/articles/a/computer-art-history)
 
