@@ -7,3 +7,9 @@
 * `:r!` to insert the result of a command
 
 * `:noh` to remove highlighting
+
+* `:set cc=32` highlight the column 32
+
+* `g` `g` `=` `↑`+`G` auto formats your code
+
+* `:w` saves and `:wq` saves and quits
