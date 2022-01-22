@@ -11,3 +11,7 @@
 * spurn
     * reject with disdain or contempt
     * decline
+* wince
+    * make a slight involuntary grimace or shrinking movement of the body out of pain or distress.
+    > "he winced at the disgust in her voice"
+    * grimace, flinch
