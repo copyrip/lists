@@ -22,3 +22,6 @@
     * without help from anyone else.
 * taunt
     * to reproach or challenge in a mocking or insulting manner : jeer at
+* partake
+    * to take part in or experience something along with others
+    * to have a portion (food or drink)
