@@ -25,3 +25,8 @@
 * partake
     * to take part in or experience something along with others
     * to have a portion (food or drink)
+
+## french
+* musai
+    * entrer en rut (pour un cerf).
+    * perdre son temps à des choses futiles, des bagatelles, des riens, flâner
