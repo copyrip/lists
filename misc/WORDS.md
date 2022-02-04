@@ -25,6 +25,10 @@
 * partake
     * to take part in or experience something along with others
     * to have a portion (food or drink)
+* pleat
+    * Fold into pleats.
+    * A double or multiple fold in a garment or other item made of cloth, held by stitching the top or side.
+
 
 ## french
 * musai
