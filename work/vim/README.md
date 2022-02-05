@@ -16,4 +16,10 @@
 
 * `:%s/[0-9]/number:\0/g` search and replace in place
 
+* `:set paste` to keep whitespace formatting
+
+* `:put =range(1,31)` to write a list of numbers ranging from 1 to 31
+
+
+
 

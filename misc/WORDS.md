@@ -28,6 +28,9 @@
 * pleat
     * Fold into pleats.
     * A double or multiple fold in a garment or other item made of cloth, held by stitching the top or side.
+* aloft
+    * up in or into the air; overhead.
+
 
 
 ## french
