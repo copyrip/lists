@@ -37,3 +37,5 @@
 * musai
     * entrer en rut (pour un cerf).
     * perdre son temps à des choses futiles, des bagatelles, des riens, flâner
+* padou, padoue
+    * Ruban de coton de 8 à 10 mm qui sert à border un vêtement pour éviter qu'il ne se déforme.
