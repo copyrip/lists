@@ -1,5 +1,7 @@
 ## articles i've read online
 ### 2022
+#### 2022.02
+* [x] [Ur-Fascism, Umberto Eco](https://www.pegc.us/archive/Articles/eco_ur-fascism.pdf)
 #### 2022.01
 * [x] [Wikipedia on wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
     * [x] [Larry Sanger twitter](https://twitter.com/lsanger)
