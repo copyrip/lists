@@ -8,3 +8,9 @@ Information compiled into lously organized lists.
 
 ## beautiful websites
 * [kaiu meiner](https://kaiumeiner.com/) (portfolio, design, minimalism)
+
+## image databases
+* [Archive.org](https://archive.org/)
+* [Paris Musées](https://www.parismuseescollections.paris.fr/)
+* [Europeana](https://www.europeana.eu/fr)
+

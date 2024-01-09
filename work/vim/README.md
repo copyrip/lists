@@ -20,3 +20,5 @@
 
 * `:put =range(1,31)` to write a list of numbers ranging from 1 to 31
 
+* `:r!date` 
+
