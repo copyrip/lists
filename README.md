@@ -15,3 +15,7 @@ Information compiled into lously organized lists.
 * [Europeana](https://www.europeana.eu/fr)
 * [Gifcities](https://gifcities.org/)
 
+## greeting cards
+### 2024
+* [Raphael Bastide](https://raphaelbastide.com/greetings/2024)
+
