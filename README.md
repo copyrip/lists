@@ -13,4 +13,5 @@ Information compiled into lously organized lists.
 * [Archive.org](https://archive.org/)
 * [Paris Musées](https://www.parismuseescollections.paris.fr/)
 * [Europeana](https://www.europeana.eu/fr)
+* [Gifcities](https://gifcities.org/)
 
