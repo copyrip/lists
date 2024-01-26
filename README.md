@@ -19,3 +19,5 @@ Information compiled into lously organized lists.
 ### 2024
 * [Raphael Bastide](https://raphaelbastide.com/greetings/2024)
 
+## manifesto
+* [https://web0.small-web.org/ web0]
