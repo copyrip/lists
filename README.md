@@ -21,3 +21,9 @@ Information compiled into lously organized lists.
 
 ## manifesto
 * [https://web0.small-web.org/ web0]
+
+## games
+* framed
+* wordle
+* pedantl
+* 
