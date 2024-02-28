@@ -14,6 +14,7 @@ Information compiled into lously organized lists.
 * [Paris Musées](https://www.parismuseescollections.paris.fr/)
 * [Europeana](https://www.europeana.eu/fr)
 * [Gifcities](https://gifcities.org/)
+* [Web Badges World](https://web.badges.world/)
 
 ## greeting cards
 ### 2024
