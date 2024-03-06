@@ -27,4 +27,8 @@ Information compiled into lously organized lists.
 * framed
 * wordle
 * pedantl
-* 
+
+## validators
+* [w3c nu html checker](https://validator.w3.org) 
+* [w3c css validator](https://jigsaw.w3.org/css-validator/validator)
+* [CSS Lint](http://csslint.net/)
