@@ -32,3 +32,7 @@ Information compiled into lously organized lists.
 * [w3c nu html checker](https://validator.w3.org) 
 * [w3c css validator](https://jigsaw.w3.org/css-validator/validator)
 * [CSS Lint](http://csslint.net/)
+
+## resumes
+* [Leo Mosesso](https://leamosesso.ooo/cv.html)
+* [Midy Seu](https://docs.google.com/spreadsheets/d/1AzFlNWeY9CgeSBaMwSTUzXaR2hJ9BKH--13CoBZaXlk/edit#gid=1501707065)
