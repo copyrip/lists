@@ -36,3 +36,6 @@ Information compiled into lously organized lists.
 ## resumes
 * [Leo Mosesso](https://leamosesso.ooo/cv.html)
 * [Midy Seu](https://docs.google.com/spreadsheets/d/1AzFlNWeY9CgeSBaMwSTUzXaR2hJ9BKH--13CoBZaXlk/edit#gid=1501707065)
+
+## misc
+* [https://bababoy.fr](https://bababoy.fr)
