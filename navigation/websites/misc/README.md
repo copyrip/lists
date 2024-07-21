@@ -4,3 +4,5 @@
 ## ui meta pieces
 * https://onemillioncheckboxes.com/
 
+## domains i WANT !
+* https://copyrig.ht/
